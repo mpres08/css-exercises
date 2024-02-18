@@ -1,0 +1,16 @@
+.red-box {
+    background-color: lightcoral;
+    font-family: Verdana "DejaVu Sans" sans-serif;
+}
+.medium-font {
+    font-size: 24px;
+}
+#blue-font {
+    color: blue;
+    font-size: 36px;
+}
+#green-box {
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color:lightgreen;
+}
